@@ -1,12 +1,12 @@
 import styles from './style';
 import {
+  Navbar,
   Billing,
   Business,
   CardDeal,
   Clients,
   CTA,
   Footer,
-  Navbar,
   Stats,
   Testimonials,
   Hero,

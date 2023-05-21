@@ -1,16 +1,17 @@
 import styles from './style';
 import {
   Navbar,
+  Hero,
+  Stats,
   Billing,
   Business,
   CardDeal,
   Clients,
   CTA,
   Footer,
-  Stats,
   Testimonials,
-  Hero,
 } from './components';
+//7:39
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">

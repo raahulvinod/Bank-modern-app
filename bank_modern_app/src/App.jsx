@@ -3,15 +3,15 @@ import {
   Navbar,
   Hero,
   Stats,
-  Billing,
   Business,
+  Billing,
   CardDeal,
   Clients,
   CTA,
   Footer,
   Testimonials,
 } from './components';
-//7:39
+//7:58
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">

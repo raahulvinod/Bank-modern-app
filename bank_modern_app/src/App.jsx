@@ -11,7 +11,7 @@ import {
   Footer,
   Testimonials,
 } from './components';
-//7:58
+//8:24
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
